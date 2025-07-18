@@ -1,2 +1,2 @@
-# pokdex
+# pokedex
 Projeto Rihappy DIO
